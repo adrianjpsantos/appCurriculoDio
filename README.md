@@ -6,6 +6,7 @@ Desafio Dio.me e Avanade Bootcamp de Construir um app curriculo.
 ## Conteudo
 - Linking
 - Criação de componentes
+- Import StylesSheet e Componentes criados
 - Icones da lib react-native-vector-icons
 - StyleSheet
 - Hook useState
